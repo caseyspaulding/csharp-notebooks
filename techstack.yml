@@ -1,0 +1,31 @@
+repo_name: caseyspaulding/csharp-notebooks
+report_id: a2ed413e3e9bcc708dad83d4b1a414b2
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-21T13:23:06+00:00'
+requested_by: JakeRadMSFT
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/caseyspaulding/csharp-notebooks
+  detection_source: Repo Metadata
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/caseyspaulding/csharp-notebooks
+  detection_source: Repo Metadata
